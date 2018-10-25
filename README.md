@@ -1,5 +1,7 @@
-Shattered Pixel Dungeon
+Unnamed Pixel Dungeon
 =======================
+
+Fork of Shattered Pixel Dungeon version 0.7.0a. https://github.com/00-Evan/shattered-pixel-dungeon
 
 A Roguelike RPG, with randomly generated levels, items, enemies, and traps!
 Based on the source code of Pixel Dungeon, by Watabou.
